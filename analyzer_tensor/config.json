@@ -1,0 +1,20 @@
+{
+  "version": "3",
+  "host": "127.0.0.1",
+  "adminPort": 9001,
+  "analyzerPort": 9002,
+  "mediaHttpPort": 9003,
+  "mediaRtspPort": 554,
+  "mediaSecret": "aqxY9ps21fyhyKNRyYpGvJCTp1JBeGOM",
+  "rootDir": "/home/wangbanjin/upload/",
+  "videoFileNameFormat": "%Y%m%d%H%M%S",
+  "recordLogInterval": 30,
+  "workerConcurrency": 20,
+  "supportHardwareVideoDecode": false,
+  "supportHardwareVideoEncode": false,
+  "yolov8OpenVINOWeight": "/home/wangbanjin/analyzer_tensor/models/yolov8n.xml",
+  "yolov8TensorRTWeight": "/home/wangbanjin/analyzer_tensor/models/yolov8n_fp16.1.1.engine",
+  "algorithmEngine": "TensorRT",
+  //"algorithmEngine": "OpenVINO",
+  "algorithmDevice": "GPU"
+}
