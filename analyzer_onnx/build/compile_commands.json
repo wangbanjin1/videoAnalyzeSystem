@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Utils/CalcuIOU.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Utils/CalcuIOU.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Utils/CalcuIOU.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Utils/Request.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Utils/Request.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Utils/Request.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Algorithm.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Algorithm.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Algorithm.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/AlgorithmOnnxRuntime.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/AlgorithmOnnxRuntime.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/AlgorithmOnnxRuntime.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Analyzer.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Analyzer.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Analyzer.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/AvPullStream.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/AvPullStream.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/AvPullStream.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/AvPushStream.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/AvPushStream.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/AvPushStream.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Config.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Config.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Config.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Frame.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Frame.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Frame.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/GenerateAlarmVideo.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/GenerateAlarmVideo.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/GenerateAlarmVideo.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Scheduler.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Scheduler.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Scheduler.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Server.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Server.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Server.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/Core/Worker.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/Core/Worker.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/Core/Worker.cpp"
+},
+{
+  "directory": "/home/wangbanjin/analyzer_onnx/build",
+  "command": "/usr/bin/c++  -I/home/wangbanjin/onnx/include -isystem /usr/local/include/opencv4  -std=c++17 -pthread   -O0 -Wall -g2 -ggdb -o CMakeFiles/Analyzer.dir/Analyzer/main.cpp.o -c /home/wangbanjin/analyzer_onnx/Analyzer/main.cpp",
+  "file": "/home/wangbanjin/analyzer_onnx/Analyzer/main.cpp"
+}
+]

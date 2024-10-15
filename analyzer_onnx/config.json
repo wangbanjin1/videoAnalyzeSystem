@@ -1,0 +1,15 @@
+{
+  "version": "3.41",
+  "host": "172.21.170.31",
+  "adminPort": 9001,
+  "mediaHttpPort": 9002,
+  "analyzerPort": 9003,
+  "mediaRtspPort": 9554,
+  "mediaSecret": "aqxY9ps21fyhyKNRyYpGvJCTp1JBeGOM",
+  "uploadDir": "/home/wangbanjin/upload",
+  "videoFileNameFormat": "%Y%m%d%H%M%S",
+  "recordLogInterval": 30,
+  "workerConcurrency": 20,
+  "algorithmApiUrl": "http://127.0.0.1:9703/algorithm",
+  "onnxModelPath": "/home/wangbanjin/analyzer_onnx/models/yolov8n.onnx"
+}
